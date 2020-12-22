@@ -1,8 +1,8 @@
 {
-  "name": "login_uniapp_yjwzz_liyaning",
+  "name": "item-list",
   "version": "1.0.0",
-  "description": "sign up and sign in",
-  "main": "index.js",
+  "description": "下单",
+  "main": "index-api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/liyning/modules.git"
   },
-  "keywords": [
-    "sign",
-    "module"
-  ],
-  "author": "liyaning",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/liyning/modules/issues"
